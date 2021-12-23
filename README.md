@@ -29,4 +29,6 @@
      npm install -g firebase-tools:
      firebase used for database and hosting purpose.
      
+     ![Project 2](https://user-images.githubusercontent.com/60956438/147216443-f32ecdb7-42b8-46ee-abaa-9d1ef5336cb9.png)
+
      
